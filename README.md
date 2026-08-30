@@ -1,5 +1,3 @@
-
-```markdown
 <div align="center">
 
 # 🚲 Urban Mobility & Environmental Data Platform
@@ -175,10 +173,5 @@ This project was collaboratively developed by:
 
 ## 📄 License
 This project is open-source and available under the [MIT License](LICENSE).
-```
 
 ---
-
-### Un par de detalles para cuando lo peguéis:
-1. En la sección **Contributors**, cambiad `[Name Teammate 2]` y `[Name Teammate 3]` por los nombres reales de tus compañeros y poned vuestros enlaces a LinkedIn y GitHub.
-2. Más adelante, podéis añadir una captura o diagrama en una carpeta `assets/` para que la cabecera quede aún más visual.
