@@ -1,10 +1,3 @@
-En el sector tecnológico e internacional, tener el **`README.md` en inglés** es el estándar de oro y multiplica el impacto ante reclutadores y empresas que buscan perfiles técnicos.
-
-Aquí tienes un `README.md` profesional, con *badges* (insignias), diagramas visuales, explicación de la arquitectura Medallion y las instrucciones de despliegue para que cualquiera pueda levantar el proyecto en su máquina.
-
-Puedes copiar este contenido directamente en el archivo `README.md` de vuestro repositorio en GitHub:
-
----
 
 ```markdown
 <div align="center">
