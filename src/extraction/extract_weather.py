@@ -8,8 +8,8 @@ import requests
 url = "https://api.open-meteo.com/v1/forecast"
 
 params = {
-    "latitude": 37.1882,
-    "longitude": -3.6067,
+    "latitude": 40.4165,
+    "longitude": -3.7026,
     "hourly": "temperature_2m,precipitation_probability,wind_speed_10m",
     "current": "temperature_2m,relative_humidity_2m,precipitation,wind_speed_10m",
     "timezone": "auto"
